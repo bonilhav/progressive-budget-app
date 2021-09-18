@@ -5,8 +5,7 @@
   ## Description
   This project is designed to assist individuals with managing a budget. It allows individuals to input debits or credits even when the individual is not online. 
 
-  ![Screenshot]()
-  ![Walkthrough]()(website link)
+  ![Screenshot](./public/images/budget-screenshot.png)(https://boiling-sands-37608.herokuapp.com/)
 
   ## Table of Contents
 
